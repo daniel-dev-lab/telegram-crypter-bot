@@ -1,0 +1,16 @@
+{
+  "name": "crypter_telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-encryptor": "^4.0.0",
+    "telegraf": "^4.11.2"
+  }
+}
